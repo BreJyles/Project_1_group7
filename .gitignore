@@ -1,3 +1,6 @@
+#adding the .ds_store here instead of trying to do it in kraken, hoepfully it works
+.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
